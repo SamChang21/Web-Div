@@ -1,0 +1,110 @@
+table{
+    height: 80vh;
+    border: 1px solid blue;
+    font-weight: bold;
+    font-size: 23px;
+}
+td{
+    border: 1px solid red;
+    width: 100vw;
+    text-align: center;
+    height: 50px;
+}
+th{
+    width: 100vw;
+    border: 1px solid green;
+    height: 50px;
+}
+div{
+    text-align: center;
+}
+body{
+    height:100vh; 
+    width: 100vw;
+}
+h1{
+    text-align: center;
+}
+#time{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(https://cdn.mos.cms.futurecdn.net/VRaYR9GNanHLE9HmBWgiB5.jpg);
+    background-size: cover;
+    background-position: center;
+    color: red;
+    font-size: larger;
+}
+#eat{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(https://image.shutterstock.com/image-photo/wooden-pairs-chopsticks-spoon-isolated-260nw-1127322446.jpg);
+    background-position: center;
+}
+#math{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(https://www.turito.com/learn/wp-content/uploads/2022/03/equations.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#English{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(https://previews.123rf.com/images/tatiana53/tatiana531307/tatiana53130700004/20689342-letters-of-the-english-alphabet-background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#D1{
+    background-color: red;
+}
+#D2{
+    background-color: orange;
+}
+#D3{
+    background-color: yellow;
+}
+#D4{
+    background-color: rgb(38, 187, 38);
+}
+#D5{
+    background-color: rgb(101, 118, 203);
+}
+#web{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(https://www.lambdatest.com/blog/wp-content/uploads/2018/11/JPG-2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#essay{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(https://cdn-icons-png.flaticon.com/512/2275/2275561.png);
+    background-size: cover;
+    background-position: center;
+    color: rgb(5, 5, 114);
+    
+}
+#history{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBWlGLgHKnapsf0z3OvI307zFOJpINXhTlg&usqp=CAU);
+    background-size: cover;
+    background-position: center;
+}
+#writing{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(https://media.istockphoto.com/photos/pen-picture-id1059543698?k=20&m=1059543698&s=170667a&w=0&h=BKhT1Q-6CZHasjhpA4UR2O6fJ1COKUc5DiUIUYOIzAE=);
+    background-size: cover;
+    background-position: center;
+}
+#java{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ptkCztFi-dQ9cNva1floRCR4N_BhL2xJrw&usqp=CAU);
+    background-size: 200px;
+    background-position: center;
+}
+#ww{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(http://eps.schoolspecialty.com/EPS/media/ProductImages/Wordly%20Wise%203000/logo_ww4th.png);
+    background-position: center;
+    background-size: cover;
+}
+#ES{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/56823375_648440238925777_1327426717333061632_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=sSZ8lAzKIogAX_BSflC&_nc_oc=AQkBQxp5KtCzYpUjTyzVDWFCxAGJUVR5eHEh7Gd5MLOw3NEZrauYucGrxu0M5IzqfbsIL28vTS5g0D9-Vtx3JdxW&_nc_ht=scontent.ftpe8-1.fna&oh=00_AT_oBxAFP290QvS7PaVk9Ln9IhlmAzWj_DB9CW4P0zbF0w&oe=633C1568);
+    background-position: center;
+    background-size: cover;
+}
+#club{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(https://i0.wp.com/kashmirreader.com/wp-content/uploads/2020/09/What-we-do-to-the-environment-is-what-we-do-to-ourselves.jpg?fit=701%2C445&ssl=1);
+    background-position: center;
+    background-size: cover;
+}
+#C{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png);
+    background-position: center;
+    background-size: cover;
+}

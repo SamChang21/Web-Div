@@ -1,0 +1,49 @@
+#bigbox{
+    display: flex ;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction:row;
+}
+.card{
+    height: 50vh;
+    border: solid red;
+    display:flex ;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+}
+.pic{
+    height: 20vh;
+    width: 20vh;
+    margin-top: 0%;
+    background-size: cover;
+    background-position: center;
+}
+.info{
+    height: 10vh;
+    width: 30vh;
+    text-align: center;
+}
+#PE{
+    background-image: url("https://media.istockphoto.com/vectors/volleyball-sports-glyph-icon-vector-id1305166860?k=20&m=1305166860&s=612x612&w=0&h=Mun4fscPllczdvH-W4x3JtlqfSserep0AgrDYDQ7ZqY=");
+    
+}
+#Insect{
+    background-image: url("https://www.cbc.ca/kids/images/the_feed/bugs_herculesbeetle.jpg");
+}
+#Planting{
+    background-image: url("https://t4.ftcdn.net/jpg/03/58/01/85/360_F_358018560_ehGiUZYzOgkwdKqIEb8p6PSPHUo9xdkS.jpg");
+}
+#E-sport{
+    background-image: url("https://seeklogo.com/images/A/apex-logo-F74B0C9FCD-seeklogo.com.png");
+}
+#Cooking{
+    background-image: url("https://assets.stickpng.com/images/61f7deca67553f0004c53e8a.png");
+}
+#Dessert{
+    background-image: url("https://www.differenttypes.net/wp-content/uploads/types-of-dessert.jpg");
+}
+#Chess{
+    background-image: url("https://www.ichess.net/wp-content/uploads/2018/09/4ng5.jpg");
+}

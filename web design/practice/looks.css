@@ -1,0 +1,13 @@
+ol{ 
+    width: 50px;
+}
+#list{
+    text-align: center;
+    align-items: center;
+}
+#links{
+    font-size: 100px;
+}
+p{
+    margin-bottom: 5px;
+}

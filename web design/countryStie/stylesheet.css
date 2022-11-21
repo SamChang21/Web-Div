@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color:red
+    
+}
+
+#NorthKoreaMap{
+    height: 300px;
+    width: 250px;
+    margin-left: 40px;
+
+}
+#NorthKoreaPopulationMap{
+    height: 300px;
+    width: 500px;
+    margin-left: 40px;
+}
+
+.pages{
+    text-align: center;
+}
+.body{
+    background-image: url(http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQQXggeet0WiY4UbCLDcbQ5VpmboWrTu8oPIIdxsgaVZOZQS2OjlR6TFwtZ2ncp_Ef5B9g-D728Idhxv6xpmPA);
+    background-size: cover;
+    background-position: center;
+}
